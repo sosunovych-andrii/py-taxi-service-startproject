@@ -1,4 +1,4 @@
-.venv
-.idea
-db.sqlite3
 tests/__pycache__/
+.idea/
+db.sqlite3
+taxi/__pycache__/models.cpython-313.pyc
